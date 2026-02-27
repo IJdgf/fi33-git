@@ -14,8 +14,11 @@ aäsldkfj
 hohoho
 hahaha
 
-oiapsoijgsoi
+
 sdälfijgij
 Ich bin Igor
 print("   AUTHOR: MH   ")
 print("   TIME: 27.2.26 - 10:36   ")
+
+
+neu neu neu
